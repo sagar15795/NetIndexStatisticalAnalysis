@@ -20,6 +20,17 @@ Comparison graph with actual values vs calculated values
 Similarly for the upload speed.
 
 model it with quartic polynomial and got the following obeservations.
-![alt tag](https://github.com/teamDAPSR/NetIndexStatisticalAnalysis/blob/master/graphs/download.png)
+![alt tag](https://github.com/teamDAPSR/NetIndexStatisticalAnalysis/blob/master/graphs/upload.png)
 
-![alt tag](https://github.com/teamDAPSR/NetIndexStatisticalAnalysis/blob/master/graphs/download.png)
+Best fit graph with polynomial of degree 4
+![alt tag](https://github.com/teamDAPSR/NetIndexStatisticalAnalysis/blob/master/graphs/uploadfit.png)
+
+Comparison graph with actual values vs calculated values
+![alt tag](https://github.com/teamDAPSR/NetIndexStatisticalAnalysis/blob/master/graphs/uploadcompare.png)
+
+
+The percentage error of our model for:
+
+Download Speed – 2.06%
+
+Upload Speed – 0.48%
