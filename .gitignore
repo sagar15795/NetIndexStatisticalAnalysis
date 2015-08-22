@@ -13,3 +13,12 @@ vignettes/*.html
 vignettes/*.pdf
 
 .Rproj.user
+
+# Backup files
+
+*.R~
+
+# Hidden files
+
+.RData
+
